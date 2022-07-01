@@ -1,0 +1,192 @@
+
+
+body {
+    height: auto;
+    max-height: 100%;
+    width: 100%;
+    min-width: 100%;
+
+}
+
+.silver {
+    background-color: rgba(192, 192, 192, 0.521);
+}
+
+
+br {
+    background-color: black;
+}
+
+img {
+    width: 320px;
+    height: 200px;
+    max-width: 100%;
+
+}
+.fotozf {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    max-width: 100%;
+
+}
+.kotak2 {
+    width: 400px;
+    height:40px;
+    border-radius: 20px;
+    margin-left: 550px;
+    text-align: center;
+    align-items: center;
+    max-width: 100%;
+
+    
+}
+.slide {
+    width: 500px;
+    height: 400px;
+    max-width: 100%;
+
+}
+
+h1 {
+    color: black;
+}
+h3 {
+    color: black;
+}
+.row2 {
+    border-radius: 20px;
+    box-shadow: 0px 0px 5px rgb(255, 255, 255);
+    align-items: center;
+    text-align: center;
+
+}
+.col2 {
+    border-radius: 20px;
+    margin: 5px;
+    color: white;
+    max-width: 100%;
+
+}
+.hr {
+    color: black;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: center;
+    position: relative;
+    background-color: white;
+    border-radius: 20px;
+    box-shadow: 0px 0px 5px black;
+    width: 120px;
+    height: 30px;
+    align-items: center;
+    max-width: 100%;
+
+}
+.container2 {
+    background-color: white;
+    border-radius: 20px;
+    max-width: 100%;
+
+}
+.dina {
+    border-radius: 20px;
+}
+h2 {
+    margin: 10px;
+}
+.zxzk {
+    background-color: white;
+    max-width: 100%;
+
+}
+.colzero {
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   justify-content: center;
+   position: relative;
+   max-width: 100%;
+
+}
+.imgh {
+    width: 200px;
+    height: 100px;
+    position: relative;
+    margin-left: 100px;
+    margin-right: auto;
+    max-width: 100%;
+
+
+}
+.oval {
+
+    background-color: white;
+    border-radius: 20px;
+    box-shadow: 0px 0px 5px black;
+    width: 150px;
+    height: 200px;
+    align-items: center;
+
+
+    
+}
+p {
+    align-items: center;
+    position: relative;
+    color: white;
+    max-width: 100%;
+
+}
+.wa {
+    width: 70px;
+    height: 30px;
+    background-color: rgba(255, 255, 255, 0.056);
+    border-radius: 20px;
+    box-shadow: 0px 0px 0px 4px rgb(255, 255, 255);
+    color: white;
+    
+
+}
+.dfgh {
+    border-radius: 20px;
+}
+.imgfts {
+    border-radius: 100%;
+    width: 100px;
+    height: 100px;
+    max-width: 100%;
+}
+.zora {
+    background-color: white;
+    border-radius: 20px;
+    text-align: center;
+}
+.kotakutara {
+    width: auto;
+    border-radius: 20px;
+    text-align: center;
+}
+.awal {
+    margin: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+.faaa {
+    background-color: rgba(255, 255, 255, 0.508);
+} 
+.faa {
+
+    background-color: rgb(0, 0, 0);
+    height: auto;
+    width: auto;
+    text-align: center;
+}
+.cybers {
+    background-color: rgba(0, 0, 0, 0.166);
+}
+.cybers2 {
+    background-color: white;
+}
