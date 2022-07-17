@@ -1,15 +1,17 @@
-
-
 body {
     height: auto;
     max-height: 100%;
     width: 100%;
     min-width: 100%;
+    color: rgb(241, 9, 9);
 
+}
+.dropdown {
+    color: black;
 }
 
 .silver {
-    background-color: rgba(192, 192, 192, 0.521);
+    background-color: rgba(2, 2, 2, 0.521);
 }
 
 
@@ -86,7 +88,7 @@ h3 {
 
 }
 .container2 {
-    background-color: white;
+    
     border-radius: 20px;
     max-width: 100%;
 
@@ -98,7 +100,7 @@ h2 {
     margin: 10px;
 }
 .zxzk {
-    background-color: white;
+    background-color: rgb(27, 25, 25);
     max-width: 100%;
 
 }
@@ -123,7 +125,7 @@ h2 {
 }
 .oval {
 
-    background-color: white;
+    background-color: rgb(31, 30, 30);
     border-radius: 20px;
     box-shadow: 0px 0px 5px black;
     width: 150px;
@@ -160,7 +162,7 @@ p {
     max-width: 100%;
 }
 .zora {
-    background-color: white;
+    background-color: rgb(15, 14, 14);
     border-radius: 20px;
     text-align: center;
 }
@@ -174,9 +176,9 @@ p {
     margin-left: auto;
     margin-right: auto;
 }
-.faaa {
-    background-color: rgba(255, 255, 255, 0.508);
-} 
+
+
+ 
 .faa {
 
     background-color: rgb(0, 0, 0);
@@ -185,8 +187,12 @@ p {
     text-align: center;
 }
 .cybers {
-    background-color: rgba(0, 0, 0, 0.166);
+    background-color: rgba(0, 0, 0, 0.468);
 }
 .cybers2 {
-    background-color: white;
+    background-color: black;
+}
+.taii {
+    background-color: black;
+    color: black;
 }
